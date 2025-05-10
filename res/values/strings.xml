@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">projeto</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string-array name="pesos_kg">
+        <item>40kg</item>
+        <item>45kg</item>
+        <item>50kg</item>
+        <item>55kg</item>
+        <item>60kg</item>
+        <item>65kg</item>
+        <item>70kg</item>
+        <item>75kg</item>
+        <item>80kg</item>
+        <item>85kg</item>
+        <item>90kg</item>
+        <item>95kg</item>
+        <item>100kg</item>
+    </string-array>
+    <string-array name="idade">
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="semana">
+        <item>1vezes/semana</item>
+        <item>2vezes/semana</item>
+        <item>3vezes/semana</item>
+        <item>4vezes/semana</item>
+        <item>5vezes/semana</item>
+        <item>6vezes/semana</item>
+        <item>7vezes/semana</item>
+    </string-array>
+
+</resources>
